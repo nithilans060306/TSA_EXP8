@@ -106,5 +106,6 @@ plt.show()
 <img width="1133" height="609" alt="image" src="https://github.com/user-attachments/assets/66ed2455-d102-45ad-87c5-aa1e7a0d5675" />
 
 <img width="1136" height="619" alt="image" src="https://github.com/user-attachments/assets/f7573e89-1fbd-48ee-8696-817c6553a6f6" />
+
 ### RESULT:
 Thus we have successfully implemented the Moving Average Model and Exponential smoothing using python.
